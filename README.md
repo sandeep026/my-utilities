@@ -1,2 +1,2 @@
 # my-utilities
-Some scripts to to ease workflow
+Some scripts I developed to to ease my workflow
